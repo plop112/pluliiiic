@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import Message, CallbackQuery
 from aiogram.filters import Command
 
-TOKEN = "7624787371:AAGleAc-OH0IDakJItNiNWaWH2Un7AQ4FsM"  # Вставь свой токен
+TOKEN = ""  # Вставь свой токен
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
